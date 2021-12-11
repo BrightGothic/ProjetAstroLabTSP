@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "523136045751",
+    "project_id": "astrolabtsp",
+    "storage_bucket": "astrolabtsp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523136045751:android:84c2e7fccfbd5e453e3332",
+        "android_client_info": {
+          "package_name": "com.example.astrolabtsp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523136045751-klp58p47kmqqlqr77ceecvvj82979j0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrBQ3sm3Tnh5eHngKc2MZI4sa8GzrNO2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523136045751-klp58p47kmqqlqr77ceecvvj82979j0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
